@@ -1,0 +1,29 @@
+{
+  "name": "loganwebdev",
+  "version": "1.0.0",
+  "description": "Package for Logan Web Development LLC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llogan382/Logan-Web-Dev.git"
+  },
+  "keywords": [
+    "WordPress",
+    "NPM",
+    "GULP",
+    "JS",
+    "Bootstrap"
+  ],
+  "author": "luke@loganwebdev.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llogan382/Logan-Web-Dev/issues"
+  },
+  "homepage": "https://github.com/llogan382/Logan-Web-Dev#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
